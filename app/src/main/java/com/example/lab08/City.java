@@ -2,6 +2,7 @@ package com.example.lab08;
 
 public class City {
     //This is a comment to test changes
+    // Change #2
     private String city;
     private String province;
 
